@@ -10,6 +10,7 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/lib.chainOfResponsibility" />
+            <option value="$PROJECT_DIR$/lib.decorator" />
             <option value="$PROJECT_DIR$/lib.proxy" />
           </set>
         </option>
