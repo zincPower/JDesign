@@ -12,6 +12,7 @@
             <option value="$PROJECT_DIR$/lib.chainOfResponsibility" />
             <option value="$PROJECT_DIR$/lib.decorator" />
             <option value="$PROJECT_DIR$/lib.proxy" />
+            <option value="$PROJECT_DIR$/lib.state" />
             <option value="$PROJECT_DIR$/lib.strategy" />
           </set>
         </option>

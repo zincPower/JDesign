@@ -1,1 +1,1 @@
-include ':app', ':lib.proxy', ':lib.chainOfResponsibility', ':lib.decorator', ':lib.strategy'
+include ':app', ':lib.proxy', ':lib.chainOfResponsibility', ':lib.decorator', ':lib.strategy', ':lib.state'
